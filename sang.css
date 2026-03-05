@@ -1,0 +1,236 @@
+#container {
+	border: 2px solid #00CCFF;
+}
+#header {
+	background-image: url(images/header01.jpg);
+}
+#thongbao {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #0165B1;
+}
+#cuon {
+	width: 95%;
+}
+#menu a{
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #0487CD;
+	text-align: center;
+	display: block;
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-top-width: 100%;
+	border-right-width: 100%;
+	border-bottom-width: 100%;
+	border-left-width: 100%;
+}
+#right {
+	background-image: url(images/bg_right.jpg);
+}
+#jumpMenu {
+	color: F5FBFB;
+	background-color: #46BBDE;
+	width: 100%;
+}
+#formtimkiem {
+	background-color: #999900;
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 2px groove #996633;
+}
+#tim {
+	color: #CCFF98;
+	background-color: #46bbde;
+	height: 16px;
+	width: 110px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #996600;
+	border-right-color: #ccff99;
+	border-bottom-color: #ccff99;
+	border-left-color: #996600;
+}
+
+
+
+
+#menu a:hover {
+	font-weight: bold;
+	color: #FF33FF;
+	text-decoration: underline;
+	background-color: #00529E;
+	text-align: center;
+	display: block;
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#divUserInfo {
+	font-weight: bold;
+	color: #e1e1d5;
+	text-align: center;
+	padding: 2px;
+	border: 2px groove #996633;
+}
+
+.tieudebox {
+	font-size: 18px;
+	font-weight: bold;
+	color: #990000;
+	background-color: #ffffff;
+	text-align: center;
+	padding: 5px;
+}
+.tieudebox em{
+	font-size: 18px;
+	font-weight: bold;
+	color: #0165B1;
+	background-color: #ffffff;
+	text-align: center;
+	padding: 5px;
+	font-family: Normal;
+}
+#formlogin {
+	margin: 0px;
+}
+
+
+
+.login_txt {
+	color: #f3f7ff;
+	background-color: #46bbde;
+	width: 130px;
+}
+#tinnoibatnhat {
+	color: #333333;
+	background-image: url(images/hinhnentin.jpg);
+	padding: 5px;
+	text-align: justify;
+}
+#tinxemnhieu a:hover{
+	color: #76270B;
+	text-decoration: underline;
+}
+#tinxemnhieu a {
+	color: #01539F;
+	text-decoration: none;
+}
+
+#tinnoibat a{
+	color: #01539F;
+	text-decoration: none;
+}
+#quangcao_main {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #006699;
+	border-bottom-color: #006699;
+}
+.tenloaitin {
+	font-size: 18px;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #0165B1;
+	padding-left: 10px;
+}
+#tin_trai a{
+	color: #0165b1;
+	text-decoration: none;
+	background-image: url(images/arrow.gif);
+	text-align: left;
+	display: block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	background-position: 10px 3px;
+}
+#tin_phai a {
+	color: #0165b1;
+	text-decoration: none;
+	background-image: url(images/arrow.gif);
+	text-align: left;
+	display: block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	background-position: 10px 3px;
+}
+#tin_trai a:hover {
+	color: #990000;
+	text-decoration: underline;
+	background-image: url(images/arrow.gif);
+	text-align: left;
+	display: block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	background-position: 10px 3px;
+}
+#tin_phai a:hover {
+	color: #990000;
+	text-decoration: underline;
+	background-image: url(images/arrow.gif);
+	text-align: left;
+	display: block;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	
+	Horizontal Position: 10;
+	Vertical Position: 3;
+}
+#tin_trai {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #006699;
+}
+
+
+
+
+
+
+#tinnoibat a:hover {
+	color: #76270B;
+	text-decoration: underline;
+}
+
+
+
+#tinnoibatnhat a{
+	color: #000066;
+	background-image: url(images/hinhnentin.jpg);
+	padding: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
+
+#tinnoibatnhat a:hover {
+	color: #990000;
+	background-image: url(images/hinhnentin.jpg);
+	padding: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
